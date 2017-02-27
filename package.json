@@ -1,0 +1,25 @@
+{
+    "version": "0.0.1",
+    "name": "co.airsia.cordova.pingpp",
+    "cordova_name": "Pingpp",
+    "description": "cordova plugin for pingxx",
+    "license": "Apache 2.0",
+    "keywords": [
+        "pingpp",
+        "pingxx",
+        "ping++",
+        "alipay",
+        "weixin",
+        "pay"
+    ],
+    "platforms": [
+        "android",
+        "ios"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.4.0"
+        }
+    ]
+}
